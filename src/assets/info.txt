@@ -1,0 +1,9 @@
+ronaldo 96 ST
+90 95 78 86 38 80
+
+bellingham 96 CM
+87 88 94 95 85 84
+
+mbappe 96 LW
+106 96 87 102 40 80
+

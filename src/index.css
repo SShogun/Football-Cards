@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#bg1{
+    font-family: 'Fira Sans', sans-serif;
+    background: rgb(255,0,91);
+    background: linear-gradient(120deg, rgba(255,0,91,1) 0%, rgba(59,48,97,1) 47%, rgba(38,0,255,1) 100%);
+}
+#bg2{
+    font-family: 'Fira Sans', sans-serif;
+    background: rgb(247,239,138);
+    background: linear-gradient(120deg, rgba(247,239,138,1) 0%, rgba(174,134,37,1) 50%, rgba(223,189,105,1) 100%);
+}
+
